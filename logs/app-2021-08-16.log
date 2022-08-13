@@ -1,0 +1,15 @@
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:12:00 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:12:00.156Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:12:05 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:12:05.715Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:12:26 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:12:26.159Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:13:50 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:13:50.244Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:15:07 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:15:07.318Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:16:57 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:16:57.642Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:17:51 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:17:51.839Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:18:08 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:18:08.627Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:18:53 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:18:53.810Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:19:13 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:19:13.330Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:20:18 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:20:18.633Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:23:19 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:23:19.881Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:29:43 +0000] \"POST /v1/players HTTP/1.1\" 400 - \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:29:43.062Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:51:54 +0000] \"POST /v1/players HTTP/1.1\" 201 225 \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:51:54.923Z","metadata":{}}
+{"level":"info","message":"::ffff:192.168.43.228 - - [16/Aug/2021:02:56:07 +0000] \"POST /v1/players HTTP/1.1\" 201 225 \"-\" \"Dart/2.14 (dart:io)\"","timestamp":"2021-08-16T02:56:07.489Z","metadata":{}}

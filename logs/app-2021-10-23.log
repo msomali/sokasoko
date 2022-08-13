@@ -1,0 +1,1 @@
+{"level":"info","message":"::ffff:127.0.0.1 - - [23/Oct/2021:20:05:42 +0000] \"GET /v1/users HTTP/1.1\" 200 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36\"","metadata":{},"timestamp":"2021-10-23T20:05:43.332Z"}

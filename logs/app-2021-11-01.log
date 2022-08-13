@@ -1,0 +1,14 @@
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:02:42:45 +0000] \"POST /v1/users/login HTTP/1.1\" 200 947 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T02:42:45.115Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:02:42:46 +0000] \"GET /v1/adverts HTTP/1.1\" 200 85 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T02:42:46.108Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:02:42:46 +0000] \"GET /v1/adverts HTTP/1.1\" 200 85 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T02:42:46.118Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:02:42:52 +0000] \"GET /v1/files/fs/617578bbb51afe3512ec4a90/chunks HTTP/1.1\" 200 - \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T02:42:52.583Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:02:52:24 +0000] \"PATCH /v1/users/upload/61715e959937754004c95ff2 HTTP/1.1\" 200 947 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T02:52:24.258Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:01:35 +0000] \"PATCH /v1/medias HTTP/1.1\" 404 - \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:01:35.893Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:03:03 +0000] \"PATCH /v1/medias HTTP/1.1\" 404 - \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:03:03.576Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:04:23 +0000] \"PATCH /v1/medias HTTP/1.1\" 404 - \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:04:23.480Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:05:02 +0000] \"POST /v1/medias HTTP/1.1\" 400 906 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:05:02.831Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:08:17 +0000] \"POST /v1/medias HTTP/1.1\" 201 - \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:08:17.986Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:09:04 +0000] \"POST /v1/medias HTTP/1.1\" 201 656 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:09:04.123Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:10:21 +0000] \"POST /v1/medias HTTP/1.1\" 201 656 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:10:21.136Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:12:50 +0000] \"POST /v1/medias HTTP/1.1\" 201 226 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:12:50.146Z"}
+{"level":"info","message":"::ffff:192.168.43.1 - - [01/Nov/2021:03:20:42 +0000] \"POST /v1/medias HTTP/1.1\" 201 239 \"-\" \"Dart/2.15 (dart:io)\"","metadata":{},"timestamp":"2021-11-01T03:20:42.815Z"}

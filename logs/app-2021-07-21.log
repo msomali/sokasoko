@@ -1,0 +1,2 @@
+{"level":"info","message":"::1 - - [21/Jul/2021:13:43:53 +0000] \"GET / HTTP/1.1\" 200 9 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\"","timestamp":"2021-07-21T13:43:53.455Z","metadata":{}}
+{"level":"info","message":"::ffff:127.0.0.1 - - [21/Jul/2021:13:49:19 +0000] \"GET / HTTP/1.1\" 200 9 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36\"","timestamp":"2021-07-21T13:49:19.637Z","metadata":{}}
